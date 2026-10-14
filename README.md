@@ -13,10 +13,7 @@ Each folder corresponds to one module.
 
 ## Modules
 
- `week05/` — Conditionals: tiered discount calculator
- `week06/` — Loops: sales report with sum, average, max
- `week07/` — Functions: calculate_tax, apply_discount
- `week08/` — Git: first GitHub submission
+- `week07/` — Functions: calculate_tax, apply_discount, final_price
 
 ## How to Run
 
