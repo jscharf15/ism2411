@@ -14,7 +14,7 @@ Each folder corresponds to one module.
 ## Modules
 
 - `week07/` — Functions: calculate_tax, apply_discount, final_price
-- 'week10/' - Lists & Tuples: index_practice, slicing, tuple_comparison, accumulator_pattern
+- `week10/` - Lists & Tuples: index_practice, slicing, tuple_comparison, accumulator_pattern
 
 ## How to Run
 
