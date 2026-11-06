@@ -13,8 +13,15 @@ Each folder corresponds to one module.
 
 ## Modules
 
+- `week01/` - Computer Vocabulary & File System Tour
+- `week02/` - First Terminal Session & First Python Script
+- `week03/` - Product Pricer with f-strings
+- `week04/` - Operators & Expressions: revenue, margin, discount calculator
+- `week05/` - Conditionals: discount, discounted_price, final_price
+- `week06/` - Loops: average, count, total, largest_sale
 - `week07/` — Functions: calculate_tax, apply_discount, final_price
 - `week10/` — Lists & Tuples: index_practice, slicing, tuple_comparison, accumulator_pattern
+
 
 ## How to Run
 
